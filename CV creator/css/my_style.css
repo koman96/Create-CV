@@ -1,0 +1,21 @@
+h1 { text-align:center; }
+table ,tr { border: 2px solid brown; padding: 5px; border-spacing :15px; }
+.img_parent {
+    text-align: center;
+}
+.center_btn {
+    margin:0 auto;
+    display:block;
+}
+.center_table {
+    margin-left:auto; 
+    margin-right:auto;
+	margin-bottom: 20px;
+}
+#footer{
+	margin-top: 100px;
+	color: brown;
+}
+.borders{
+	border:1px solid brown;
+}
