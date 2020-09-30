@@ -1,13 +1,17 @@
-h1 { text-align:center; }
+#header { 
+    text-align:center;
+    margin-bottom: 5%;  
+}
+
 table ,tr { border: 2px solid brown; padding: 5px; border-spacing :15px; }
 .img_parent {
     text-align: center;
 }
-.center_btn {
+#center_btn {
     margin:0 auto;
     display:block;
 }
-.center_table {
+#center_table {
     margin-left:auto; 
     margin-right:auto;
 	margin-bottom: 20px;
