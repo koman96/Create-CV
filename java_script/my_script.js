@@ -30,3 +30,7 @@ function myFunction() {
     header.classList.remove("sticky");
   }
 }
+
+$(".my_btn").click( ()=>{
+  alert("HELLO Sir !");  
+});

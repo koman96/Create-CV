@@ -59,3 +59,16 @@ table ,tr { border: 2px solid brown; padding: 5px; border-spacing :15px; }
 .borders{
 	border:1px solid brown;
 }
+#div1{
+    position: relative;
+    height: 200px;
+    width: 100%;
+}
+#div2{
+    top: 20px;
+    left: 50px;
+    position: absolute;
+}
+#my_btn_holder{
+    text-align: center;
+}
